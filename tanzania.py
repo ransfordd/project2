@@ -1,3 +1,5 @@
 print("Jambo tanzania")
 
-print("teaching")
+print("teacher you are too fast")
+
+print ('clone')
